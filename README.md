@@ -1,5 +1,4 @@
-# Library Management System
-
+#student marks project
 A simple MySQL/DBMS project for managing books, members, and issue records.
 
 ## Files
